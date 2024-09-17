@@ -1,0 +1,56 @@
+.header {
+    background-color: #111;
+    padding: 1rem 0;
+    color: #ffffff;
+  }
+
+  .header h1{
+    padding-top: 4rem;
+    font-size: 3rem;
+  }
+  .header p {
+    font-size: 1.20rem;
+    line-height: 1.75rem;
+    padding-bottom: 4rem;
+  }
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .logo {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .main-nav {
+    display: flex;
+  }
+  
+  .nav-list {
+    display: flex;
+    list-style-type: none;
+    gap: 1.5rem;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: opacity 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    opacity: 0.8;
+  }
+
+  .text-center {
+    text-align: center;
+  }
