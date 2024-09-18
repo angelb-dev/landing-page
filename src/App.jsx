@@ -1,4 +1,3 @@
-import React from 'react'
 import './css/App.css'
 import PricingComponent from './components/PricingComponent'
 import Header from './components/Header'

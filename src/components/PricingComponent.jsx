@@ -1,4 +1,3 @@
-import React from 'react'
 import '../css/PricingComponent.css'
 
 const PricingComponent = () => {
